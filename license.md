@@ -256,4 +256,4 @@ tool completely — there is no uninstaller and no registry entry.
 
 ---
 
-*palworld-loader · Updated 2026-11-17 · Shared under the MIT License*
+*palworld-loader · Updated 2026-11-18 · Shared under the MIT License*
